@@ -192,6 +192,9 @@
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <None Include="Properties\PublishProfiles\CommerceBack - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\CommerceBackend - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\CommerceBackoff - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
